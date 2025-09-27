@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuyishime812
 - 👀 I’m interested in ... cybersecuritty
-- 🌱 I’m currently learning ... website development
+- 🌱 I’m currently ... website development
 - 📫 How to reach me ... +265990342825
 
 
