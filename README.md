@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @tuyishime812
-- 👀 I’m interested in ... cybersecuritty
-- 🌱 I’m currently ... website development
-- 📫 How to reach me ... +265990342825
+- Fullstack Developer | System Engineer |
+- Cybersecurity | Website Developer
+
+- Contact me on +265990342825
+- tuyishimemartin007@gmail.com
 
 
-<!---
-tuyishime812/tuyishime812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+=
